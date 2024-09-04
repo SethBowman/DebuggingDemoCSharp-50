@@ -1,0 +1,14 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\bin\Debug\net8.0\DebuggingDemoCSharp-50.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\bin\Debug\net8.0\DebuggingDemoCSharp-50.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\bin\Debug\net8.0\DebuggingDemoCSharp-50.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\bin\Debug\net8.0\DebuggingDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\bin\Debug\net8.0\DebuggingDemoCSharp-50.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\DebuggingDemoCSharp-50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\DebuggingDemoCSharp-50.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\DebuggingDemoCSharp-50.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\DebuggingDemoCSharp-50.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\DebuggingDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\refint\DebuggingDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\DebuggingDemoCSharp-50.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\DebuggingDemoCSharp-50.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\DebuggingDemoCSharp-50\DebuggingDemoCSharp-50\obj\Debug\net8.0\ref\DebuggingDemoCSharp-50.dll
